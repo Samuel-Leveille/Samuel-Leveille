@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Samuel Léveillé
+## 👋 Hi there! I'm Samuel Léveillé
 
 🎓 I'm a passionate Computer Science student at **Cégep André-Laurendeau**, working towards becoming a **Web Developer**.  
 💡 I love programming, technology, and constantly learning about the evolving world of computer science.  
