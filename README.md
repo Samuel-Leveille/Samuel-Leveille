@@ -34,7 +34,7 @@
 ---
 
 ## 📫 Get in touch
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/samuel-léveillé-8798b9217) or reach out via GitHub.  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-l%C3%A9veill%C3%A9-8798b9217) or reach out via GitHub.  
 I'm always open to collaboration, new opportunities, and learning from others in the tech community.
 
 ---
